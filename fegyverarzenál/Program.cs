@@ -10,6 +10,8 @@ namespace fegyverarzenál
     {
         static void Main(string[] args)
         {
+
+            Console.ReadKey();
         }
     }
 }
